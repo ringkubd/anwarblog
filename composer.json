@@ -1,0 +1,19 @@
+{
+    "name": "anwar/anwarblog",
+    "description": "This is anwar blog library",
+    "type": "library",
+    "authors": [
+      {
+        "name": "Anwar Jahid",
+        "email": "ajr.jahid@gmail.com"
+      }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Anwarblog\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
